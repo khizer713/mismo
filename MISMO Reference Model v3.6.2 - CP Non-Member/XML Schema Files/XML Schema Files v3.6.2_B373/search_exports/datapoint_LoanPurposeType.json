@@ -1,0 +1,427 @@
+{
+  "search_mode": "datapoint",
+  "key": "LoanPurposeType",
+  "count": 60,
+  "matches": [
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/DATA_MODIFICATION/DATA_MODIFICATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/SERVICING_TRANSFER/SERVICING_TRANSFER_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_REQUEST/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/AUTOMATED_UNDERWRITING_SYSTEM/AUTOMATED_UNDERWRITING_SYSTEM_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/CREDIT/CREDIT_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/FLOOD/FLOOD_RESPONSE/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_COMMITMENT/TITLE_EXISTING_LOANS_AND_LIABILITIES_INFORMATION/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    },
+    {
+      "xpath": "/MESSAGE/DOCUMENT_SETS/DOCUMENT_SET/DOCUMENTS/DOCUMENT/DEAL_SETS/DEAL_SET_SERVICES/DEAL_SET_SERVICE/WORKOUT_EVALUATION/WORKOUT_EVALUATION_RESPONSE/DEAL_SET/DEALS/DEAL/SERVICES/SERVICE/TITLE/TITLE_RESPONSE/TITLE_PRODUCTS/TITLE_PRODUCT/TITLE_POLICIES/TITLE_POLICY/LOANS/LOAN/TERMS_OF_LOAN/LoanPurposeType",
+      "endpoint_type": "Enumeration",
+      "schema_defined_type": "LoanPurposeEnum",
+      "container": "TERMS_OF_LOAN",
+      "endpoint": "LoanPurposeType"
+    }
+  ]
+}
