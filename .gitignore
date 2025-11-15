@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.log
+.DS_Store
+.venv
+
+
+mismo-schemas/
+xpaths-search-results/xpaths_MESSAGE*
